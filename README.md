@@ -1,4 +1,4 @@
-# Graphql-node-react
+# Graphql-node-react-template
 This is a template for using GraphQL in NodeJS backend and React Frontend
 
 - As a GraphQL backend, NodeJS/Express/MongoDB project was used.
